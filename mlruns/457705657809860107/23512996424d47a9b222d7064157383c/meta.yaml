@@ -1,0 +1,15 @@
+artifact_uri: /home/tryfonm/projects/mlflow/mlflow-artifacts/23512996424d47a9b222d7064157383c/artifacts
+end_time: 1697543882134
+entry_point_name: ''
+experiment_id: '457705657809860107'
+lifecycle_stage: active
+run_id: 23512996424d47a9b222d7064157383c
+run_name: dashing-gnat-1000
+run_uuid: 23512996424d47a9b222d7064157383c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697543878615
+status: 3
+tags: []
+user_id: tryfonm

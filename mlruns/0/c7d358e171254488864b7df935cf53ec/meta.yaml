@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c7d358e171254488864b7df935cf53ec/artifacts
+end_time: 1697036296114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7d358e171254488864b7df935cf53ec
+run_name: gregarious-bat-227
+run_uuid: c7d358e171254488864b7df935cf53ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697036295955
+status: 4
+tags: []
+user_id: tryfonm

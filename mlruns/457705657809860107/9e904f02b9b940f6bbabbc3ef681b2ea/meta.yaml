@@ -1,0 +1,15 @@
+artifact_uri: /home/tryfonm/projects/mlflow/mlflow-artifacts/9e904f02b9b940f6bbabbc3ef681b2ea/artifacts
+end_time: 1697530642035
+entry_point_name: ''
+experiment_id: '457705657809860107'
+lifecycle_stage: active
+run_id: 9e904f02b9b940f6bbabbc3ef681b2ea
+run_name: serious-boar-343
+run_uuid: 9e904f02b9b940f6bbabbc3ef681b2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697530603358
+status: 3
+tags: []
+user_id: tryfonm

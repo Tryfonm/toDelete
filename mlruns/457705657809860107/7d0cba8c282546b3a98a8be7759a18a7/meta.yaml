@@ -1,0 +1,15 @@
+artifact_uri: /home/tryfonm/projects/mlflow/mlflow-artifacts/7d0cba8c282546b3a98a8be7759a18a7/artifacts
+end_time: 1697032477099
+entry_point_name: ''
+experiment_id: '457705657809860107'
+lifecycle_stage: active
+run_id: 7d0cba8c282546b3a98a8be7759a18a7
+run_name: fearless-panda-954
+run_uuid: 7d0cba8c282546b3a98a8be7759a18a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697032472482
+status: 3
+tags: []
+user_id: tryfonm

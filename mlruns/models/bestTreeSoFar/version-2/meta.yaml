@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1697034429304
+current_stage: None
+description: ''
+last_updated_timestamp: 1697034429304
+name: bestTreeSoFar
+run_id: e20401dc28a445e592d24231baf4d865
+run_link: ''
+source: /home/tryfonm/projects/mlflow/mlflow-artifacts/e20401dc28a445e592d24231baf4d865/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2
